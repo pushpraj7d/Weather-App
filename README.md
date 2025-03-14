@@ -1,4 +1,5 @@
 # Weather App
+https://pushpraj7d.github.io/Weather-App/
 
 ## Overview
 The Weather App is a web application that provides real-time weather updates for any city. It fetches weather data using the OpenWeather API and displays temperature, humidity, and wind speed along with an appropriate weather icon.
